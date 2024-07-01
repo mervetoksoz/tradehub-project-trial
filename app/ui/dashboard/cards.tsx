@@ -4,7 +4,7 @@ import {
   UsersIcon,
   ClipboardDocumentIcon,
 } from '@heroicons/react/24/outline';
-import { rubik } from '@/app/ui/fonts';
+import { rubik } from '../fonts';
 
 const iconMap = {
   earned: BanknotesIcon,
